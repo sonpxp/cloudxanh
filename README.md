@@ -13,7 +13,7 @@
 </p> -->
 
 
-<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/github.gif">
+<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
