@@ -107,3 +107,17 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <p align="center">
   <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+## Pc
+
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
+```diff
+hi, im jd 🔮.
+
+@@advanced programming.@@
++ living in Ha Noi, Viet Nam.
+- i love you ✨
+! program engineer, web developer and shitposter
+# 📖 reverse engineering, computer science
+```
